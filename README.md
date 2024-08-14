@@ -16,6 +16,8 @@ For the moment, it is not available for installation through Pipy or conda, but 
 pip install git+https://github.com/andres-martinez-torres/pons_py
 ```
 
+I strongly recommend you create a new virtual environment and use Python 3.9 (newer versions may give issues, due to certain dependencies).
+
 ## Documentation
 The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can gave a look at the Jupyter Notebook "Tutorial.ipynb" [here](https://github.com/andres-martinez-torres/pons_py/blob/main/Tutorial.ipynb) and the documentation of each function, which should be enough to get you started. 
 
