@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pons_py"
+version = "0.1.0"
+description = "A Python library for the creation and analysis of People-Opinion Networks (PONs). It includes the creation of the social network and Speaker Landscapes, visualisation, and polarisation analysis."
+readme = "README.md"
+license = ""
+requires-python = ">=3.9"
+authors = [
+    { name = "Andrés Martinez Torres", email = "andres.martineztorres@unil.ch" },
+]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "fa2_modified",
+    "gensim",
+    "ipympl",
+    "IPython",
+    "ipywidgets",
+    "KDEpy",
+    "matplotlib",
+    "networkx",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+    "tqdm",
+    "umap-learn",
+]
+
+[project.urls]
+Homepage = "https://github.com/andres-martinez-torres/pons_py"
+
