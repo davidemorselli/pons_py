@@ -17,7 +17,7 @@ pip install git+https://github.com/andres-martinez-torres/pons_py
 ```
 
 ## Documentation
-The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can gave a look at the Jupyter Notebook "Tutorial.ipynb" and the documentation of each function, which should be enough to get you started. 
+The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can gave a look at the Jupyter Notebook "Tutorial.ipynb" [here](https://github.com/andres-martinez-torres/pons_py/blob/main/Tutorial.ipynb) and the documentation of each function, which should be enough to get you started. 
 
 If you have further questions or find a bug, make sure to raise a Github issue!
 
