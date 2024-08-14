@@ -18,6 +18,13 @@ pip install git+https://github.com/andres-martinez-torres/pons_py
 
 I strongly recommend you create a new virtual environment and use Python 3.9 (newer versions may give issues, due to certain dependencies).
 
+## Google Colab Note
+The package works well in Google Colab (which are essentially Jupyter Notebooks). It can be installed with the same line as above but adding ! right before pip (so: !pip ...).
+
+HOWEVER, due to a limitation on Google's side, interactive figures will not work in GColab. You can see a related issue here: https://github.com/googlecolab/colabtools/issues/86
+
+So make sure to set interactive=False when creating visualisations, but also use the highlight argument (highlight='Group1') which will produce a visualisation as if you had clicked the checkbox for that group (or groups, you can input ['Group1', 'Group2']) in interactive mode.
+
 ## Documentation
 The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can gave a look at the Jupyter Notebook "Tutorial.ipynb" [here](https://github.com/andres-martinez-torres/pons_py/blob/main/Tutorial.ipynb) and the documentation of each function, which should be enough to get you started. 
 
