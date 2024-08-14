@@ -1,4 +1,4 @@
-# Pons-py: People-Opinion Networks Python Package
+# Pons_py: People-Opinion Networks Python Package
 
 This package allows for the creation of Speaker Landscapes and social networks and bring them together into a multilayer visualisation for the study of group polarisation. Additionally, it allows for the calculation of group polarisation in the Speaker Landscape. 
 
