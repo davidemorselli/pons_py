@@ -13,7 +13,7 @@ This package allows for the creation of Speaker Landscapes and social networks a
 For the moment, it is not available for installation through Pipy or conda, but can be installed from Github through pip:
 
 ```bash
-pip install git+https://github.com/andres-martinez-torres/pons-py
+pip install git+https://github.com/andres-martinez-torres/pons_py
 ```
 
 ## Documentation
