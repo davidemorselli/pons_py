@@ -7,7 +7,7 @@ name = "pons_py"
 version = "0.1.0"
 description = "A Python library for the creation and analysis of People-Opinion Networks (PONs). It includes the creation of the social network and Speaker Landscapes, visualisation, and polarisation analysis."
 readme = "README.md"
-license = "BSD 3-Clause License"
+license = ""
 requires-python = ">=3.9"
 authors = [
     { name = "Andrés Martinez Torres", email = "andres.martineztorres@unil.ch"},
