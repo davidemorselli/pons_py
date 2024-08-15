@@ -26,7 +26,7 @@ HOWEVER, due to a limitation on Google's side, interactive figures will not work
 So make sure to set interactive=False when creating visualisations, but also use the highlight argument (highlight='Group1') which will produce a visualisation as if you had clicked the checkbox for that group (or groups, you can input ['Group1', 'Group2']) in interactive mode.
 
 ## Documentation
-The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can gave a look at the Jupyter Notebook "Tutorial.ipynb" [here](https://github.com/andres-martinez-torres/pons_py/blob/main/Tutorial.ipynb) and the documentation of each function, which should be enough to get you started. 
+The documentation is still being built (as is the library, to which we will add more functions as the project develops). For the moment, you can have a look at the Jupyter Notebook "Tutorial.ipynb" [here](https://github.com/andres-martinez-torres/pons_py/blob/main/Tutorial.ipynb) and the documentation of each function, which should be enough to get you started. 
 
 If you have further questions or find a bug, make sure to raise a Github issue!
 
